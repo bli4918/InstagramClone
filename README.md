@@ -53,7 +53,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='InstagramClonePart1_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
 
-#### Part2:
+#### Part 2:
 
 <img src='InstagramClonePart2_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
