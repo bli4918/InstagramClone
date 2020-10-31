@@ -49,7 +49,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='InstagramClonePart1_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+#### Part 1:
+
+<img src='InstagramClonePart1_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
+
+#### Part2:
 
 <img src='InstagramClonePart2_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
